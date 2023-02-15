@@ -10,4 +10,13 @@ A Jupyter notebook file (.ipnyb) and the paper featuring interpretation of the d
 ## Instructions
 
 All you need is the Jupyter notebook file, though I recommend putting it in its own folder as the notebook will create a number of files when it's run.
-Make sure you have the following dependencies installed before running:
+Make sure you have the following libraries and their dependencies installed before running:
+ ````pandas
+spacy
+gensim
+numpy
+matplotlib
+pyLDAvis
+
+## Credit
+Data collected by The Marshall Project.
