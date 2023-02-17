@@ -21,4 +21,5 @@ pyLDAvis
 ````
 ## Credit
 Data collected by The Marshall Project.
+
 Written for Matti La Mela's Distant Reading couorse at Uppsala University, Spring 2023.
